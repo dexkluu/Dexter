@@ -10,3 +10,7 @@ My interest in Japanese media has inspired me try and learn a bit of Japanese. T
 
 ## [Mammogram Mass Classification](https://dexkluu.github.io/Mammogram-Mass-Classification/)
 Mass data was used to classify the severity of the mass through different machine learning models. The models accuracy, precision, and recall score were compared to make a conclusion about the best performing model.
+
+# Contact Info
+Email: dexkluu@gmail.com
+Phone: 510-910-0935
