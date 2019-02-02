@@ -12,5 +12,5 @@ My interest in Japanese media has inspired me try and learn a bit of Japanese. T
 Mass data was used to classify the severity of the mass through different machine learning models. The models accuracy, precision, and recall score were compared to make a conclusion about the best performing model.
 
 # Contact Info
-Email: dexkluu@gmail.com
+Email: dexkluu@gmail.com <br>
 Phone: 510-910-0935
