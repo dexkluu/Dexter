@@ -1,5 +1,3 @@
-# [Resume](https://dexkluu.github.io/Dexter/Resume_.pdf/)
-
 # Projects
 ## [Restaurant Review Dashboard](https://dexkluu.github.io/Restaurant-Review-Dashboard/)
 Because restaurants are a customer service business, insights in how a restaurant is performing can be gained by observing customer sentiments in online reviews. Reviews for a restaurant were scraped off the web using Python's scrapy, processed to show meaningful information, and displayed in a Tableau dashboard. The dashboard is able to clearly show recent monthly performance in terms of customer ratings as well as common keywords in their reviews all in one place.
@@ -14,5 +12,6 @@ This project focuses on exploring what features about an anime tended to perform
 Mass data was used to classify the severity of the mass through different machine learning models. The models accuracy, precision, and recall score were compared to make a conclusion about the best performing model.
 
 # Contact Info
+[Resume](https://github.com/dexkluu/Dexter/blob/master/Resume_.pdf)
 Email: dexkluu@gmail.com <br>
 Phone: 510-910-0935
