@@ -12,6 +12,6 @@ This project focuses on exploring what features about an anime tended to perform
 Mass data was used to classify the severity of the mass through different machine learning models. The models accuracy, precision, and recall score were compared to make a conclusion about the best performing model.
 
 # Contact Info
-[Resume](https://github.com/dexkluu/Dexter/blob/master/Resume_.pdf)
+[Resume](https://github.com/dexkluu/Dexter/blob/master/Resume_.pdf) <br>
 Email: dexkluu@gmail.com <br>
 Phone: 510-910-0935
