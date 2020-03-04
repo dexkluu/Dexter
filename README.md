@@ -1,3 +1,5 @@
+# [Resume](https://dexkluu.github.io/Dexter/Resume_.pdf/)
+
 # Projects
 ## [Restaurant Review Dashboard](https://dexkluu.github.io/Restaurant-Review-Dashboard/)
 Because restaurants are a customer service business, insights in how a restaurant is performing can be gained by observing customer sentiments in online reviews. Reviews for a restaurant were scraped off the web using Python's scrapy, processed to show meaningful information, and displayed in a Tableau dashboard. The dashboard is able to clearly show recent monthly performance in terms of customer ratings as well as common keywords in their reviews all in one place.
