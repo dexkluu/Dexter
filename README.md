@@ -1,4 +1,7 @@
 # Projects
+## [Restaurant Review Dashboard](https://dexkluu.github.io/Restaurant-Review-Dashboard/)
+Because restaurants are a customer service business, insights in how a restaurant is performing can be gained by observing customer sentiments in online reviews. Reviews for a restaurant were scraped off the web using Python's scrapy, processed to show meaningful information, and displayed in a Tableau dashboard. The dashboard is able to clearly show recent monthly performance in terms of customer ratings as well as common keywords in their reviews all in one place.
+
 ## [Anime Recommender](https://dexkluu.github.io/Anime-recommender/)
 Item-based collaborative filtering was done on user rating data that I scraped off of [myanimelist.net](https://myanimelist.net). The recommender system allows users to enter ratings for animes they have watched(as a Python dictionary) and will return 10 recommended animes.
 
